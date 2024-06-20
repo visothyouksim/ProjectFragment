@@ -8,7 +8,7 @@
         android:layout_height="match_parent"
         android:orientation="vertical"
         android:gravity="center"
-        android:background="#0000FF">
+        android:background="@color/menu_background">
 
         <Button
             android:id="@+id/button_menu"
